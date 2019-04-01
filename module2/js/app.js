@@ -42,6 +42,7 @@ app.factory('ShoppingListCheckOffService',function(){
    var toBuyItems = [{name: "Cookies", quantity: 10},
                      {name: "Bagels", quantity: 12},
                      {name: "Donuts", quantity: 15},
+                     {name: "Pizza", quantity: 4},
                      {name: "Muffins", quantity: 10}];
 
                     //var toBuyItems = ["Cookies","Bagels"];
